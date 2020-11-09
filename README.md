@@ -1,3 +1,6 @@
+# What this?
+This is the Help Website, Use it if your feeling a bit Lost
+
 # WindowsMaster
 A Compiled Set Of Tools, Contains an Activator for all Windows (One Click Windows Activator),Activator For All Microsoft Offices, Mac Address Changer, Cmd Customization(BETA), Network Fix, Restart into Advanced Mode, ADB Usb and Wireless Screenshare and control, In Need Of Devs to add more features; soon adding a android emulator
 
