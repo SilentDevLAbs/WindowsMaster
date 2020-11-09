@@ -17,6 +17,5 @@ then open the extracted folder and find WindowsMaster.exe
 right click and run as administrator
 
 # Help
-click link below for help
-[HELPME!!!](SilentDevLAbs.github.io)
+[HELPME!!!](https://silentdevlabs.github.io/)
 Made Using Python (:
